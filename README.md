@@ -9,4 +9,4 @@
 - El archivo index.html es el punto de entrada, y nos permite ver la interfaz en el navegador.
 - El archivo xkcd.php es un script que nos permite obtener las URL's de las imágenes que le digamos en la página xkcd.com.
 
-😎👍
+# 😎👍
