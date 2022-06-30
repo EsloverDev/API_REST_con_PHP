@@ -1,5 +1,5 @@
-#API_REST_con_PHP
-####Aquí encontrarás los archivos que utilicé para implementar los servicios REST, guiándome del curso de Platzi.
+# API_REST_con_PHP
+#### Aquí encontrarás los archivos que utilicé para implementar los servicios REST, guiándome del curso de Platzi.
 #### Features
 - El archivo server.php hace el papel de la base de datos donde encontrarás los recursos que se pueden visualizar, modificar, agregar recursos nuevos y eliminar los recursos existentes; también aporta la lógica para implementar los servicios REST.
 - El archivo generate_hash.php se debe llamar en caso de que se requiera usar la autenticación vía HMAC
